@@ -14,7 +14,7 @@
 
 ## 技术支持
 
-* [uni-app插件市场](https://ext.dcloud.net.cn/plugin?id=1380)
+* [uni-app插件市场](https://ext.dcloud.net.cn/plugin?id=1522)
 
 * [npm包](https://www.npmjs.com/package/hm-uniapp-head-portrait-card)
 
